@@ -1,34 +1,11 @@
 Data Science from Scratch
 =========================
 
-Here's all the code and examples from the second edition of my book _Data Science from Scratch_. They require at least Python 3.6.
+Here's a fork with executed code of the book _Data Science from Scratch_ written by Joel Grus.
+All examples are made as .ipynb files in Jupiter Notebook.
 
-(If you're looking for the code and examples from the first edition, that's in the `first-edition` folder.)
+I created executable files while studying this book. All files partially repeat the code from the book, but a small part of the code is changed and updated.
 
-If you want to use the code, you should be able to clone the repo and just do things like
-
-```
-In [1]: from scratch.linear_algebra import dot
-
-In [2]: dot([1, 2, 3], [4, 5, 6])
-Out[2]: 32
-```
-
-and so on and so forth.
-
-Two notes:
-
-1. In order to use the library like this, you need to be in the root directory (that is, the directory that contains the `scratch` folder). If you are in the `scratch` directory itself, the imports won't work.
-
-2. It's possible that it will just work. It's also possible that you may need to add the root directory to your `PYTHONPATH`, if you are on Linux or OSX this is as simple as 
-
-```
-export PYTHONPATH=/path/to/where/you/cloned/this/repo
-```
-
-(substituting in the real path, of course).
-
-If you are on Windows, it's [potentially more complicated](https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-so-it-finds-my-modules-packages).
 
 ## Table of Contents
 
