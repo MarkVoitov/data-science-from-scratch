@@ -4,7 +4,7 @@ Data Science from Scratch
 Here's a fork with executed code of the book _Data Science from Scratch_ written by Joel Grus.
 All examples are made as .ipynb files in Jupiter Notebook.
 
-I created executable files while studying this book. All files partially repeat the code from the book, but a small part of the code is changed and updated.
+I created executable files while studying this book. All files partially repeat the code from the book, but a part of the code is changed, updated and adapted to Python 3.
 
 
 ## Table of Contents
