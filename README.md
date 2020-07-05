@@ -11,8 +11,8 @@ I created executable files while studying this book. All files partially repeat 
 
 1. Introduction
 2. A Crash Course in Python
-3. [Visualizing Data](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/visualizing_data.ipynb)
-4. [Linear Algebra](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/linear_algebra.py)
+3. [Visualizing Data](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/03_visualizing_data.ipynb)
+4. [Linear Algebra](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/04_linear_algebra.ipynb)
 5. [Statistics](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/statistics.py)
 6. [Probability](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/probability.py)
 7. [Hypothesis and Inference](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/inference.py)
