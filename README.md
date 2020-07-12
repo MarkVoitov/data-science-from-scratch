@@ -16,7 +16,7 @@ I created executable files while studying this book. All files partially repeat 
 5. [Statistics](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/05_statistics.ipynb)
 6. [Probability](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/06_probability.ipynb)
 7. [Hypothesis and Inference](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/07_hypothesis_and_inference.ipynb)
-8. [Gradient Descent](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/gradient_descent.py)
+8. [Gradient Descent](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/08_gradient_descent.ipynb)
 9. [Getting Data](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/getting_data.py)
 10. [Working With Data](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/working_with_data.py)
 11. [Machine Learning](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/machine_learning.py)
