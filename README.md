@@ -6,7 +6,7 @@ All examples are made as .ipynb files in Jupiter Notebook.
 
 I created executable files while studying this book. All files partially repeat the code from the book, but a part of the code is changed, updated and adapted to Python 3.
 
-I used russian edition of [the first edition of original book](https://www.oreilly.com/library/view/data-science-from/9781491901410/).
+I used russian edition of [the first edition of original book](https://www.oreilly.com/library/view/data-science-from/9781491901410/). First edition was originally published in 2015 and there was a second edition in 2019. So part of the code has been significantly updated by me.
 
 ## Table of Contents
 
