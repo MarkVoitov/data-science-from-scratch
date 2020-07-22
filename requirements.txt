@@ -3,6 +3,7 @@ ipython
 
 # For plotting graphs
 matplotlib
+seaborn
 
 # For reading in images
 pillow
