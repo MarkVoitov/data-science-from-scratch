@@ -20,7 +20,7 @@ I used russian edition of [the first edition of original book](https://www.oreil
 8. [Gradient Descent](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/08_gradient_descent.ipynb)
 9. [Getting Data](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/09_getting_data.ipynb)
 10. [Working With Data](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/10_working_with_data.ipynb)
-11. [Machine Learning](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/machine_learning.py)
+11. [Machine Learning](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/11_machine_learning.ipynb)
 12. [k-Nearest Neighbors](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/nearest_neighbors.py)
 13. [Naive Bayes](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/naive_bayes.py)
 14. [Simple Linear Regression](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/simple_linear_regression.py)
