@@ -27,7 +27,7 @@ I used russian edition of [the first edition of original book](https://www.oreil
 15. [Multiple Regression](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/15_multiple_regression.ipynb)
 16. [Logistic Regression](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/16_logistic_regression.ipynb)
 17. [Decision Trees](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/17_decision_trees.ipynb)
-18. [Neural Networks](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/neural_networks.py)
+18. [Neural Networks](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/18_neural_networks.ipynb)
 19. [Deep Learning]
 20. [Clustering](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/clustering.py)
 21. [Natural Language Processing](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/nlp.py)
