@@ -28,12 +28,10 @@ I used russian edition of [the first edition of original book](https://www.oreil
 16. [Logistic Regression](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/16_logistic_regression.ipynb)
 17. [Decision Trees](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/17_decision_trees.ipynb)
 18. [Neural Networks](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/18_neural_networks.ipynb)
-19. [Deep Learning]
-20. [Clustering](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/clustering.py)
-21. [Natural Language Processing](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/nlp.py)
-22. [Network Analysis](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/network_analysis.py)
-23. [Recommender Systems](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/recommender_systems.py)
-24. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/databases.py)
-25. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/mapreduce.py)
-26. Data Ethics
-27. Go Forth And Do Data Science
+19. [Clustering](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/19_clustering.ipynb)
+20. [Natural Language Processing](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/nlp.py)
+21. [Network Analysis](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/network_analysis.py)
+22. [Recommender Systems](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/recommender_systems.py)
+23. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/databases.py)
+24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/mapreduce.py)
+25. Go Forth And Do Data Science
