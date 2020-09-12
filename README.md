@@ -30,7 +30,7 @@ I used russian edition of [the first edition of original book](https://www.oreil
 18. [Neural Networks](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/18_neural_networks.ipynb)
 19. [Clustering](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/19_clustering.ipynb)
 20. [Natural Language Processing](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/20_natural_language_processing.ipynb)
-21. [Network Analysis](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/network_analysis.py)
+21. [Network Analysis](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/21_network_analysis.ipynb)
 22. [Recommender Systems](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/recommender_systems.py)
 23. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/databases.py)
 24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/mapreduce.py)
