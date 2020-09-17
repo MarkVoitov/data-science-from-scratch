@@ -33,5 +33,5 @@ I used russian edition of [the first edition of original book](https://www.oreil
 21. [Network Analysis](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/21_network_analysis.ipynb)
 22. [Recommender Systems](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/22_recommender_systems.ipynb)
 23. [Databases and SQL](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/23_databases.ipynb)
-24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/mapreduce.py)
+24. [MapReduce](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/24_mapreduce.ipynb)
 25. Go Forth And Do Data Science
