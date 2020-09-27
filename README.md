@@ -10,7 +10,7 @@ I used russian edition of [the first edition of original book](https://www.oreil
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/01_introduction.ipynb)
 2. [A Crash Course in Python](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/02_crash_course_in_python.ipynb)
 3. [Visualizing Data](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/03_visualizing_data.ipynb)
 4. [Linear Algebra](https://github.com/MarkVoitov/data-science-from-scratch/blob/master/ipynb/04_linear_algebra.ipynb)
